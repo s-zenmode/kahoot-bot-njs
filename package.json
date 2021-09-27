@@ -12,6 +12,9 @@
   "author": "s-zenmode",
   "license": "ISC",
   "dependencies": {
-    "kahoot.js-updated": "^3.404.1"
+    "got": "^11.8.2",
+    "kahoot.js-updated": "^3.404.1",
+    "random-useragent": "^0.5.0",
+    "ws": "^8.2.2"
   }
 }

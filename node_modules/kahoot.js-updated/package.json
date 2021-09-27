@@ -1,0 +1,35 @@
+{
+  "name": "kahoot.js-updated",
+  "version": "3.404.1",
+  "description": "[Removed]",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/join_leave.js"
+  },
+  "keywords": [
+    "kahoot",
+    "js",
+    "quiz",
+    "game",
+    "updated",
+    "bot",
+    "answer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theusaf/kahoot.js-updated.git"
+  },
+  "engines": {
+    "node": ">=10.9.0"
+  },
+  "author": "theusaf",
+  "license": "MIT",
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/theusaf/kahoot.js-updated/issues"
+  },
+  "devDependencies": {},
+  "pkg": {
+    "scripts": "src/*/*.js"
+  }
+}

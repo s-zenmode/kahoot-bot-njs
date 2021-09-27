@@ -1,6 +1,6 @@
 var Kahoot = require("kahoot.js-updated");
 var kahoots = [];
-var pin = "000000"; // CHANGE THIS TO YOUR KAHOOT NUMBER PIN!!!!!
+var pin = "8560529"; // CHANGE THIS TO YOUR KAHOOT NUMBER PIN!!!!!
 var name = "KahootBot"; // CHANGE THE NAME TO WHATEVER YOU WANT!!!
 var bot_count = 230;
 for (var i = 0; i < bot_count; i++) {
