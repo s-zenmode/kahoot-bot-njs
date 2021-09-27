@@ -1,0 +1,17 @@
+{
+  "name": "kahoot-bot-njs",
+  "version": "1.0.0",
+  "description": "Kahoot Bot built in Node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "kahoot"
+  ],
+  "author": "s-zenmode",
+  "license": "ISC",
+  "dependencies": {
+    "kahoot.js-updated": "^3.404.1"
+  }
+}
