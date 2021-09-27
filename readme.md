@@ -1,4 +1,4 @@
-#kahoot-bot-njs
+# kahoot-bot-njs
 
 kahoot bot in node.js
 
@@ -9,7 +9,7 @@ nodejs, and install packahe kahoot.js-updated `npm i kahoot.js-updated`
 original tutorial by [this guy](https://www.youtube.com/watch?v=JLi_qnqXYPw&t=150s)
 
 
-HOW TO SET UP:
+# HOW TO SET UP:
 
 1. install kahoot.js-updated (`npm i kahoot.js-updated`)
 
